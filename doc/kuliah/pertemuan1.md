@@ -9,13 +9,16 @@ Dua tahun kemudian di Amerika Serikat beroperasi sistem serupa bernama MIDAS yan
 
 Pengertian SIG
 Pada dasarnya istilah sistem informasi geografi merupakan gabungan dari tiga unsur pokok yaitu sistem, informasi, dan geografi.
-	a. Sistem merupakan sekumpulan objek, ide, dan hubungannya dalam mencapai tujuan bersama.
-	b. Sistem informasi merupakan suatu sistem antara manusia dan mesin yang terpadu untuk menyajikan informasi guna mendukung 
-	   fungsi operasi, manajemen, dan pengambilan keputusan dalam organisasi.
-	c. Geografi merupakan suatu telaah Bumi sebagai tempat hidup manusia. Hal-hal yang menjadi objek studi geografi adalah semua 
-	   fenomena di permukaan Bumi, baik organik maupun anorganik yang berkaitan dengan kehidupan manusia.
-	D. Penggunaan istilah informasi geografi mengandung pengertian informasi mengenai tempat-tempat yang terletak di permukaan bumi. 
-	   Pengetahuan mengenai posisi di mana suatu objek terletak di permukaan bumi dan informasi mengenai keterangan dan posisi yang              terdapat di permukaan bumi.
+
+a. Sistem merupakan sekumpulan objek, ide, dan hubungannya dalam mencapai tujuan bersama.
+b. Sistem informasi merupakan suatu sistem antara manusia dan mesin yang terpadu untuk menyajikan informasi guna mendukung 
+   fungsi operasi, manajemen, dan pengambilan keputusan dalam organisasi.
+   
+c. Geografi merupakan suatu telaah Bumi sebagai tempat hidup manusia. Hal-hal yang menjadi objek studi geografi adalah semua 
+   fenomena di permukaan Bumi, baik organik maupun anorganik yang berkaitan dengan kehidupan manusia.
+   
+D. Penggunaan istilah informasi geografi mengandung pengertian informasi mengenai tempat-tempat yang terletak di permukaan bumi. 
+   Pengetahuan mengenai posisi di mana suatu objek terletak di permukaan bumi dan informasi mengenai keterangan dan posisi yang            terdapat di permukaan bumi.
 	   
 Jadi GIS atau Geographic Information System adalah aplikasi pengolahan data spatial dengan menggunakan sistem komputerisasi              dengan menggabungkan antara data grafis dengan data atribut obyek menggunakan peta dasar digital (basic map) bergeoferensi              bumi.
 
