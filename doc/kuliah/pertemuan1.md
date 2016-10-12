@@ -11,6 +11,7 @@ Pengertian SIG
 Pada dasarnya istilah sistem informasi geografi merupakan gabungan dari tiga unsur pokok yaitu sistem, informasi, dan geografi.
 
 a. Sistem merupakan sekumpulan objek, ide, dan hubungannya dalam mencapai tujuan bersama.
+
 b. Sistem informasi merupakan suatu sistem antara manusia dan mesin yang terpadu untuk menyajikan informasi guna mendukung 
    fungsi operasi, manajemen, dan pengambilan keputusan dalam organisasi.
    
